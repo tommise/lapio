@@ -1,1 +1,1 @@
-Tämä on vain yksi tarina muiden joukossa. Tarinaa on jatkettu GitHubin editorissa.
+Tämä on vain yksi testi muiden joukossa. Tarinaa on jatkettu GitHubin editorissa.
